@@ -14,10 +14,8 @@
 
 [Personal website](http://www.zackgold.org/)
 
-# [CV]()
+# [CV](https://github.com/zjgold/Zack-Gold-CV/blob/main/cv_20260824.pdf)
 
-
-# All work posted on this GitHub is subject to NOAA Fisheries' Standards
 
 ## NOAA README
 
