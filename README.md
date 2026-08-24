@@ -9,13 +9,14 @@
 
 #### [Ocean Molecular Ecology Program](https://www.pmel.noaa.gov/ocean-molecular-ecology/)
 
-### [NOAA Omics](https://oceanexplorer.noaa.gov/noaa-omics/)
+#### [NOAA Omics](https://oceanexplorer.noaa.gov/noaa-omics/)
 
 
-[Personal website](http://www.zackgold.org/)
 
 # [CV](https://github.com/zjgold/Zack-Gold-CV/blob/main/cv_20260824.pdf)
 
+
+##### [Personal website](http://www.zackgold.org/)
 
 ## NOAA README
 
