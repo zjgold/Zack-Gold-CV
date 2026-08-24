@@ -15,6 +15,7 @@
 
 # [CV](https://github.com/zjgold/Zack-Gold-CV/blob/main/cv_20260824.pdf)
 
+This CV was built from a template from [here](https://github.com/EmilyMarkowitz-NOAA/template_website_cv) and is currently under development.
 
 ##### [Personal website](http://www.zackgold.org/)
 
