@@ -1,36 +1,21 @@
-# First Last Name
+# Zachary Gold
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=nmfs-openscapes.nmfs-openscapes)
 [![Github](https://img.shields.io/github/followers/nmfs-openscapes?label=Follow&style=social)](https://github.com/nmfs-openscapes)
 
-### Work Title 
+## Lead Molecular Ecologist / Research Biologist 
 
-### Office
+### [NOAA PMEL](https://www.pmel.noaa.gov/)
 
-### Subgroup in Office
+#### [Ocean Molecular Ecology Program](https://www.pmel.noaa.gov/ocean-molecular-ecology/)
 
-## Learn more about me! [Find my website here.](https://nmfs-openscapes.github.io/template_website_cv/)
+### [NOAA Omics](https://oceanexplorer.noaa.gov/noaa-omics/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmfs-openscapes)
-![Github stats](https://github-readme-stats.vercel.app/api?username=nmfs-openscapes&show_icons=true)
 
-<!--
+[Personal website](http://www.zackgold.org/)
 
-More notes on how to do this, here: https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5
+# [CV]()
 
-**nmfs-openscapes/nmfs-openscapes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # All work posted on this GitHub is subject to NOAA Fisheries' Standards
 
